@@ -13,12 +13,15 @@ Stable Diffusion: https://github.com/Stability-AI/generative-models
 Video Generation: 
 Runwayml: https://runwayml.com/ (100 sec free, then paid)
 DynamiCrafter: https://github.com/Doubiiu/DynamiCrafter (free)
+I2VGen-XL: https://huggingface.co/spaces/modelscope/I2VGen-XL
 
 Music Video Script generation : 
 ChatGPT (free)
 
 Image and video prompt generation: 
 ChatGPT (free)
+
+Pick a rhyme. Watch similar top viewed rhymes. Compe up with an overall story and give prompt to chatGPT. 
 
 Current Workflow: 
 1. generate Music ( AICovergen ( Music + vocals) : https://github.com/flaglow/AICoverGen.git)
