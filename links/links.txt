@@ -13,3 +13,7 @@ VoiceMod (music + vocals) : https://tuna.voicemod.net/
 Melobytes  (music + vocals):  https://melobytes.com/
 https://singify.fineshare.com/covers/ (it creates AI covers of songs in the voices of famous singers)
 
+
+## Found this repo inspiring ( they have amny text-to-image, image-to-video colabs)
+https://github.com/camenduru
+
