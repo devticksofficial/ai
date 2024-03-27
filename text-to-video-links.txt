@@ -1,0 +1,16 @@
+## Articles
+1. https://www.wired.com/story/text-to-video-ai-generators-filmmaking-hollywood/
+2. https://www.wired.com/story/openai-sora-generative-ai-video/
+3. huggingface: https://huggingface.co/blog/text-to-video
+
+
+## Models
+1. https://github.com/showlab/Awesome-Video-Diffusion?tab=readme-ov-file ( A collection of models)
+2. https://huggingface.co/spaces/modelscope/I2VGen-XL ( VGen) https://github.com/ali-vilab/i2vgen-xl?tab=readme-ov-file
+3. https://dreamoving.github.io/dreamoving/
+
+#Youtube tutorials ( Animation using AI)
+1. https://youtu.be/I7FaU2K8bT8?si=dr5sGckqrUUNJuj-
+2. https://youtu.be/amFOIYqN6dM?si=B7owBefBDvXe5u5x
+3. https://youtu.be/1X4JAG1EA5Y?si=OgCTDSjYFY16UTyK
+

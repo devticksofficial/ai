@@ -1,0 +1,15 @@
+## Useful GitHub Repositories
+DiffSinger (For singing voice synthesis): https://github.com/openvpi/DiffSinger.git
+Children's songs dataset: https://dagshub.com/kinkusuma/children-song-dataset/src/master/CSD
+OpenAI Jukebox ( Music + vocals + lyrics synthesis) : https://github.com/openai/jukebox.git
+AICovergen ( Music + vocals) : https://github.com/flaglow/AICoverGen.git
+
+## Papers
+Original paper of DiffSinger : https://arxiv.org/abs/2105.02446
+paper of OpenAI Jukebox: https://cdn.openai.com/
+
+## Websites
+VoiceMod (music + vocals) : https://tuna.voicemod.net/
+Melobytes  (music + vocals):  https://melobytes.com/
+https://singify.fineshare.com/covers/ (it creates AI covers of songs in the voices of famous singers)
+

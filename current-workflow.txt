@@ -1,0 +1,29 @@
+## 
+Image generation: 
+( All these require paid subscription after generating a certain number of images )
+Playground.ai : https://playground.com/create
+Leonardo.ai : https://leonardo.ai/
+Ideogram.ai : https://ideogram.ai/
+
+Free: 
+Playground.ai: https://huggingface.co/playgroundai
+Dall-E Playground: https://github.com/saharmor/dalle-playground?tab=readme-ov-file
+Stable Diffusion: https://github.com/Stability-AI/generative-models
+
+Video Generation: 
+Runwayml: https://runwayml.com/ (100 sec free, then paid)
+DynamiCrafter: https://github.com/Doubiiu/DynamiCrafter (free)
+
+Music Video Script generation : 
+ChatGPT (free)
+
+Image and video prompt generation: 
+ChatGPT (free)
+
+Current Workflow: 
+1. generate Music ( AICovergen ( Music + vocals) : https://github.com/flaglow/AICoverGen.git)
+2. Generate video script: ChatGPT
+3. Generate image and video generation prompts to feed to AI model: ChatGPT
+4. Generate images: Playground.ai: https://huggingface.co/playgroundai
+5. Generate videos: DynamiCrafter: https://github.com/Doubiiu/DynamiCrafter 
+6. Put the generated video clips in a video: ClipChamp (https://app.clipchamp.com/)
